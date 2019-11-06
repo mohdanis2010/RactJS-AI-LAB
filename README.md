@@ -2,4 +2,4 @@
 To install dependencies type `npm install`
 
 #
-Type `npm start` to start app.
+Type `npm run start` to start app.
