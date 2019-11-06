@@ -1,0 +1,42 @@
+{
+  "name": "AI LAB",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.2.1",
+    "immutable": "4.0.0-rc.12",
+    "jquery": "3.3.1",
+    "react": "16.5.2",
+    "react-alert": "4.0.4",
+    "react-alert-template-basic": "1.0.0",
+    "react-bootstrap": "0.32.4",
+    "react-color": "2.17.0",
+    "react-csv": "1.0.19",
+    "react-csv-reader": "1.2.1",
+    "react-data-grid": "5.0.5",
+    "react-data-grid-addons": "5.0.5",
+    "react-dom": "16.5.2",
+    "react-keybinding-component": "1.0.0",
+    "react-modal": "3.8.1",
+    "react-redux": "6.0.0",
+    "react-scripts": "2.1.2",
+    "react-transition-group": "2.5.2",
+    "recharts": "1.4.2",
+    "redux": "4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
